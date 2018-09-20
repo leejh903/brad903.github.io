@@ -18,7 +18,7 @@ theme_settings:
      <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+      2018 Brad Lee </a> Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -26,14 +26,14 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "brad903"
   flickr:
   gitlab:
   github: "brad903"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/junghyun-lee-938628109/" # Full URL
   pinterest:
   reddit:
   soundcloud:
